@@ -1,7 +1,15 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=csh991414's%20GIT&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&color=auto&height=300&section=header&text=csh991414's%20GIT&fontSize=90" />
 </div>
+
+<p align="center">
+안녕하세요!<br>
+개발자 및 기획자를 위해 열심히 달려가는 중입니다!🏃<br>
+저의 깃에 오신 것을 환영합니다! <br>
+좋은하루 되세요!🍀<br>
+</p>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -61,7 +69,7 @@
 </div>
 
 <div allign ="center">
-  <a herf= "https://github-readme-stats.vercel.app/api?username={csh991414}&theme=blue-green">
+  <a herf= "https://github-readme-stats.vercel.app/api?username=csh991414&theme=blue-green">
 </div>
 
 
