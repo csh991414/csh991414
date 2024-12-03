@@ -68,9 +68,5 @@
   </a>
 </div>
 
-<div allign ="center">
-  <a herf= "https://github-readme-stats.vercel.app/api?username=csh991414&theme=blue-green">
-</div>
-
 
 
